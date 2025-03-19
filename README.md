@@ -6,4 +6,4 @@ DBeaver 25.0.0
 
 apache-tomcat-9.0.102
 
-2022-12 (4.26.0)
+eclipse 2022-12 (4.26.0)
